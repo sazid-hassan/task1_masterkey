@@ -1,4 +1,5 @@
 import Body from "./components/Body/Body";
+import Footer from "./components/Footer/Footer";
 
 import Nav from "./components/NavBar/Nav";
 
@@ -8,6 +9,7 @@ function App() {
     <div>
       <Nav />
       <Body />
+      <Footer />
     </div>
   );
 }
