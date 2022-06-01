@@ -17,8 +17,8 @@ const Div2 = () => {
                         style={{
                             fontSize: '100px',
                             backgroundColor: "#fff",
-                            height: "110px",
-                            width: "110px",
+                            height: "250px",
+                            width: "250px",
                             borderRadius: "50%",
                         }}
                     />
@@ -28,7 +28,7 @@ const Div2 = () => {
                     <button
                         style={{
                             backgroundColor: "#644F9C",
-                            borderRadius: "30%",
+                            borderRadius: "30px",
                             width: "250px",
                             height: "60px",
                             color: "#fff"
@@ -43,9 +43,9 @@ const Div2 = () => {
                         style={{
                             fontSize: '40px',
                             backgroundColor: "#fff",
-                            height: "110px",
-                            width: "110px",
-                            borderRadius: "50%",
+                            height: "250px",
+                            width: "250px",
+                            borderRadius: "120px",
                         }}
                     />
 
@@ -54,7 +54,7 @@ const Div2 = () => {
                     <button
                         style={{
                             backgroundColor: "#644F9C",
-                            borderRadius: "30%",
+                            borderRadius: "30px",
                             width: "250px",
                             height: "60px",
                             color: "#fff"
@@ -68,9 +68,9 @@ const Div2 = () => {
                         style={{
                             fontSize: '40px',
                             backgroundColor: "#fff",
-                            height: "110px",
-                            width: "110px",
-                            borderRadius: "50%",
+                            height: "250px",
+                            width: "250px",
+                            borderRadius: "120px",
                         }}
                     />
 
@@ -79,7 +79,7 @@ const Div2 = () => {
                     <button
                         style={{
                             backgroundColor: "#644F9C",
-                            borderRadius: "30%",
+                            borderRadius: "30px",
                             width: "250px",
                             height: "60px",
                             color: "#fff"
