@@ -1,0 +1,11 @@
+.myBox{
+    height: 400px;
+    width: 75%;
+    background-color: rgb(255, 255, 255);
+    border: 1px;
+    text-align: center;
+}
+
+.myBox h2{
+    padding: 20%;
+}

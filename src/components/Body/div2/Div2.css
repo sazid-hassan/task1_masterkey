@@ -1,0 +1,28 @@
+.div2 h1{
+    color: #644F9C;
+    text-align: center;
+    margin-top: 150px;
+}
+
+.div2 p{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 24px;
+}
+
+.iconContainer{
+    width: 100%;
+    margin-top: 150px;
+    margin-bottom: 500px;
+}
+
+.icons{
+    text-align: center;
+    color: #644F9C;
+    width: 33%;
+    margin-top: 30px;
+    float: left;
+}
+
+
+
